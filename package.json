@@ -1,0 +1,35 @@
+{
+  "name": "pw-finder",
+  "version": "1.0.0",
+  "description": "Persian word finder",
+  "main": "lib/index.index",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Addict/pw-finder.git"
+  },
+  "keywords": [
+    "persian",
+    "word",
+    "words",
+    "farsi",
+    "word-finder",
+    "finder",
+    "words-finder"
+  ],
+  "author": "Dev-Addict (Aria Azadi Pour)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dev-Addict/pw-finder/issues"
+  },
+  "homepage": "https://github.com/Dev-Addict/pw-finder#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  },
+  "type": "module"
+}
