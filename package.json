@@ -1,6 +1,6 @@
 {
   "name": "pw-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Persian word finder",
   "main": "lib/index.index",
   "types": "lib",
